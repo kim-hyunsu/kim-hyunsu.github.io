@@ -16,7 +16,7 @@ google_analytics_id      :  123263246 # get google_analytics_id from https://ana
 
 # SEO Related
 google_site_verification :  e016OLSucJ1tDpe5Ul8pAvoTK_yke_qft3oxYqoWgUA # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+bing_site_verification   :  85fd24a36914df6fcdc3000dc10d5ecb # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
