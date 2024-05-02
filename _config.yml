@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hyunsu Kim"
-description              : "Ph.D. Candidate at GSAI"
+description              : "Ph.D. Candidate in AI"
 repository               : "kim-hyunsu/kim-hyunsu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hyunsu Kim"
   avatar           : "images/hskim.jpg"
-  bio              : "KAIST"
+  bio              : "Kim Jae-Chul Graduate School of Artificial Intelligence, KAIST"
   location         : "Daejeon, Korea"
   employer         :
   pubmed           : 
