@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hyunsu Kim"
-  avatar           : "images/hskim.jpng"
+  avatar           : "images/hskim.jpg"
   bio              : "Graduate School of Artificial Intelligence, KAIST"
   location         : "Daejeon, Korea"
   employer         :
