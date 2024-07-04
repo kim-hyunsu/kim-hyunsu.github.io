@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at the Graduate School of Artificial Intelligence, KAIST, being co-advised by [Juho Lee](https://juho-lee.github.io/) and [Hongseok Yang](https://sites.google.com/view/hongseokyang/home). My research interests encompass machine learning, Bayesian inference (MCMC, VI), and symmetry in AI.
+I am a Ph.D. candidate at the Graduate School of Artificial Intelligence, KAIST, being co-advised by [Juho Lee](https://juho-lee.github.io/) and [Hongseok Yang](https://sites.google.com/view/hongseokyang/home). My research interests encompass machine learning, Bayesian inference (MCMC, VI), and symmetry in AI. Recently, I have also become interested in continual learning.
 
 # Publications 
 
