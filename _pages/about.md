@@ -21,11 +21,12 @@ I am a Ph.D. candidate at the Graduate School of Artificial Intelligence, KAIST,
 
 # Publications 
 
-- [Variational Partial Group Convolutions for Input-Aware Partial Equivariance of Rotations and Color-Shifts](https://icml.cc/Conferences/2024), Hyunsu Kim, Yegon Kim, Hongseok Yang, Juho Lee, **ICML 2024**
-- [Fast Ensembling with Diffusion Schrödinger Bridge](https://arxiv.org/abs/2404.15814), Hyunsu Kim\*, Jongmin Yoon\*, Juho Lee, **ICLR 2024**
-- [Probabilistic imputation for time-series classification with missing data](https://arxiv.org/abs/2308.06738), Seunghyun Kim\*, Hyunsu Kim\*, Eungu Yun\*, Hwangrae Lee, Jaehun Lee, Juho Lee, **ICML 2023**
-- [Regularizing towards soft equivariance under mixed symmetries](https://arxiv.org/abs/2306.00356), Hyunsu Kim, Hyungi Lee, Hongseok Yang, Juho Lee, **ICML 2023**
-- [Adaptive strategy for resetting a non-stationary markov chain during learning via joint stochastic approximation](https://openreview.net/pdf?id=fuHh4CC3-5Z), Hyunsu Kim, Juho Lee, Hongseok Yang, **AABI 2020**
+- [Learning Infinitesimal Generators of Continuous Symmetries from Data](https://neurips.cc/Conferences/2024), Gyeonghoon Ko, **Hyunsu Kim**, Juho Lee, **NeurIPS 2024**
+- [Variational Partial Group Convolutions for Input-Aware Partial Equivariance of Rotations and Color-Shifts](https://arxiv.org/abs/2407.04271), **Hyunsu Kim**, Yegon Kim, Hongseok Yang, Juho Lee, **ICML 2024**
+- [Fast Ensembling with Diffusion Schrödinger Bridge](https://arxiv.org/abs/2404.15814), **Hyunsu Kim\***, Jongmin Yoon\*, Juho Lee, **ICLR 2024**
+- [Probabilistic imputation for time-series classification with missing data](https://arxiv.org/abs/2308.06738), Seunghyun Kim\*, **Hyunsu Kim\***, Eungu Yun\*, Hwangrae Lee, Jaehun Lee, Juho Lee, **ICML 2023**
+- [Regularizing towards soft equivariance under mixed symmetries](https://arxiv.org/abs/2306.00356), **Hyunsu Kim**, Hyungi Lee, Hongseok Yang, Juho Lee, **ICML 2023**
+- [Adaptive strategy for resetting a non-stationary markov chain during learning via joint stochastic approximation](https://openreview.net/pdf?id=fuHh4CC3-5Z), **Hyunsu Kim**, Juho Lee, Hongseok Yang, **AABI 2020**
 
 # Honors and Awards
 - *2019-present* Government-sponsored graduate scholarship - KAIST
