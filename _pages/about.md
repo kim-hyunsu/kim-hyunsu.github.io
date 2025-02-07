@@ -30,7 +30,7 @@ I am a Ph.D. candidate at the Graduate School of Artificial Intelligence, KAIST,
 
 # Honors and Awards
 - *2019-present*, Government-sponsored graduate scholarship - KAIST
-- *2014-2018*, The Presidential Science Scholarship - Korean National Government
+- *2014-2018*, The Presidential Science Scholarship - Government of South Korea
 - *2014-2019*, Full undergraduate scholarship - KAIST
 - *2013*, Honorable Mention - International Science and Engineering Fair (ISEF)
 - *2013*, 1st Prize - Korea Science and Engineering Fair (KSEF) 
