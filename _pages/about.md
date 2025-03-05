@@ -20,13 +20,17 @@ redirect_from:
 I am a Ph.D. candidate at the Graduate School of Artificial Intelligence, KAIST, being co-advised by [Juho Lee](https://juho-lee.github.io/) and [Hongseok Yang](https://sites.google.com/view/hongseokyang/home). My research interests encompass machine learning, Bayesian inference (MCMC, VI), symmetry in AI, and AI for science.
 
 # Publications 
-- **Hyunsu Kim**, Giung Nam, Chulhee Yun, Hongseok Yang, Juho Lee, **ICLR 2025** [Parameter Expanded Stochastic Gradient Markov Chain Monte Carlo](https://openreview.net/forum?id=exgLs4snap&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions))
-- Gyeonghoon Ko, **Hyunsu Kim**, Juho Lee, **NeurIPS 2024** [Learning Infinitesimal Generators of Continuous Symmetries from Data](https://neurips.cc/Conferences/2024)
-- **Hyunsu Kim**, Yegon Kim, Hongseok Yang, Juho Lee, **ICML 2024** [Variational Partial Group Convolutions for Input-Aware Partial Equivariance of Rotations and Color-Shifts](https://arxiv.org/abs/2407.04271)
-- **Hyunsu Kim\***, Jongmin Yoon\*, Juho Lee, **ICLR 2024** [Fast Ensembling with Diffusion Schrödinger Bridge](https://arxiv.org/abs/2404.15814)
-- Seunghyun Kim\*, **Hyunsu Kim\***, Eungu Yun\*, Hwangrae Lee, Jaehun Lee, Juho Lee, **ICML 2023** [Probabilistic imputation for time-series classification with missing data](https://arxiv.org/abs/2308.06738)
-- **Hyunsu Kim**, Hyungi Lee, Hongseok Yang, Juho Lee, **ICML 2023** [Regularizing towards soft equivariance under mixed symmetries](https://arxiv.org/abs/2306.00356),
-- **Hyunsu Kim**, Juho Lee, Hongseok Yang, **AABI 2020** [Adaptive strategy for resetting a non-stationary markov chain during learning via joint stochastic approximation](https://openreview.net/pdf?id=fuHh4CC3-5Z)
+- **Hyunsu Kim**, Giung Nam, Chulhee Yun, Hongseok Yang, Juho Lee, \\**ICLR 2025** [Parameter Expanded Stochastic Gradient Markov Chain Monte Carlo](https://openreview.net/forum?id=exgLs4snap&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions))
+- Gyeonghoon Ko, **Hyunsu Kim**, Juho Lee, \\**NeurIPS 2024** [Learning Infinitesimal Generators of Continuous Symmetries from Data](https://neurips.cc/Conferences/2024)
+- **Hyunsu Kim**, Yegon Kim, Hongseok Yang, Juho Lee, \\**ICML 2024** [Variational Partial Group Convolutions for Input-Aware Partial Equivariance of Rotations and Color-Shifts](https://arxiv.org/abs/2407.04271)
+- **Hyunsu Kim\***, Jongmin Yoon\*, Juho Lee, \\**ICLR 2024** [Fast Ensembling with Diffusion Schrödinger Bridge](https://arxiv.org/abs/2404.15814)
+- Seunghyun Kim\*, **Hyunsu Kim\***, Eungu Yun\*, Hwangrae Lee, Jaehun Lee, Juho Lee, \\**ICML 2023** [Probabilistic imputation for time-series classification with missing data](https://arxiv.org/abs/2308.06738)
+- **Hyunsu Kim**, Hyungi Lee, Hongseok Yang, Juho Lee, \\**ICML 2023** [Regularizing towards soft equivariance under mixed symmetries](https://arxiv.org/abs/2306.00356),
+- **Hyunsu Kim**, Juho Lee, Hongseok Yang, \\**AABI 2020** [Adaptive strategy for resetting a non-stationary markov chain during learning via joint stochastic approximation](https://openreview.net/pdf?id=fuHh4CC3-5Z)
+
+# Experiences
+- *2025.02-present*, Visiting Scholar, NYU
+- *2017.03-2018.08*, Freelance Software Engineer, BABLABS
 
 # Honors and Awards
 - *2019-present*, Government-sponsored graduate scholarship - KAIST
