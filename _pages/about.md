@@ -15,9 +15,12 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='about'>
 
 I am a Ph.D. candidate at the Graduate School of Artificial Intelligence, KAIST, being co-advised by [Juho Lee](https://juho-lee.github.io/) and [Hongseok Yang](https://sites.google.com/view/hongseokyang/home). My research interests encompass machine learning, Bayesian inference (MCMC, VI), symmetry of AI, and AI4Science.
+
+</span>
+<span id='publications'>
 
 # Publications 
 - **Hyunsu Kim**, Giung Nam, Chulhee Yun, Hongseok Yang, Juho Lee, <br>ICLR 2025, [Parameter Expanded Stochastic Gradient Markov Chain Monte Carlo](https://arxiv.org/abs/2503.00699)
@@ -28,9 +31,15 @@ I am a Ph.D. candidate at the Graduate School of Artificial Intelligence, KAIST,
 - **Hyunsu Kim**, Hyungi Lee, Hongseok Yang, Juho Lee, <br>ICML 2023, [Regularizing towards soft equivariance under mixed symmetries](https://arxiv.org/abs/2306.00356),
 - **Hyunsu Kim**, Juho Lee, Hongseok Yang, <br>AABI 2020, [Adaptive strategy for resetting a non-stationary markov chain during learning via joint stochastic approximation](https://openreview.net/pdf?id=fuHh4CC3-5Z)
 
+</span>
+<span id='experiences'>
+
 # Experiences
 - *2025.02-present*, Visiting Scholar (collaborating with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and [Kyunghyun Cho](https://kyunghyuncho.me/)), NYU
 - *2017.03-2018.08*, Freelance Software Engineer, BABLABS
+
+</span>
+<span id='honors-awards'>
 
 # Honors and Awards
 - *2019-present*, Government-Sponsored Graduate Scholarship - KAIST
@@ -40,7 +49,12 @@ I am a Ph.D. candidate at the Graduate School of Artificial Intelligence, KAIST,
 - *2013*, 1st Prize - Korea Science and Engineering Fair (KSEF) 
 - *2009*, Bronze Medal - Middle School Korea Biology Olympiad (KBO)
 
+</span>
+<span id='educations'>
+
 # Educations
 - *2021.09-present*, Ph.D. In Artificial Intelligence, KAIST
 - *2019.03-2021.08*, M.S. In Computer Science, KAIST
 - *2014.03-2019.02*, B.S. In Physics and Computer Science, KAIST
+
+</span>
