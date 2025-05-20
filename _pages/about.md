@@ -35,7 +35,7 @@ I am a Ph.D. candidate at the Graduate School of Artificial Intelligence, KAIST,
 <span id='experiences'></span>
 
 # Experiences
-- *2025.02-present*, Visiting Scholar (collaborating with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and [Kyunghyun Cho](https://kyunghyuncho.me/)), NYU
+- *2025.02-present*, Visiting Scholar (collaborating with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/), [Kyunghyun Cho](https://kyunghyuncho.me/), and [Joan Bruna](https://cims.nyu.edu/~bruna/group/)), NYU
 - *2017.03-2018.08*, Freelance Software Engineer, BABLABS
 
 <span id='honors-awards'></span>
