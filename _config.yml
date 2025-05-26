@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hyunsu Kim"
+  name             : "Hyunsu Kim<br>김현수"
   avatar           : "images/hskim2.jpg"
   bio              : "KAIST AI"
   location         : "Seoul, Korea"
