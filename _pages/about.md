@@ -35,13 +35,13 @@ I am a Ph.D. candidate at the Graduate School of Artificial Intelligence, KAIST,
 <span id='experiences'></span>
 
 # Experiences
-- *2025.02-present*, Visiting Scholar (collaborating with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/), [Kyunghyun Cho](https://kyunghyuncho.me/), and [Joan Bruna](https://cims.nyu.edu/~bruna/group/)), NYU
+- *2025.02-2025.06*, Visiting Scholar, New York University<br>(collaborating with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/), [Kyunghyun Cho](https://kyunghyuncho.me/), and [Joan Bruna](https://cims.nyu.edu/~bruna/group/))
 - *2017.03-2018.08*, Freelance Software Engineer, BABLABS
 
 <span id='honors-awards'></span>
 
 # Honors and Awards
-- *2019-present*, Government-Sponsored Graduate Scholarship - KAIST
+- *2019-2025*, Government-Sponsored Graduate Scholarship - KAIST
 - *2014-2018*, The Presidential Science Scholarship - Government of South Korea
 - *2014-2019*, Full Undergraduate Scholarship - KAIST
 - *2013*, Honorable Mention - International Science and Engineering Fair (ISEF)
@@ -51,6 +51,6 @@ I am a Ph.D. candidate at the Graduate School of Artificial Intelligence, KAIST,
 <span id='educations'></span>
 
 # Educations
-- *2021.09-present*, Ph.D. In Artificial Intelligence, KAIST
-- *2019.03-2021.08*, M.S. In Computer Science, KAIST
-- *2014.03-2019.02*, B.S. In Physics and Computer Science, KAIST
+- *2021.09-2025.08*, Ph.D. in Artificial Intelligence, KAIST
+- *2019.03-2021.08*, M.S. in Computer Science, KAIST
+- *2014.03-2019.02*, B.S. in Physics and Computer Science (Double Major), KAIST
