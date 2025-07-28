@@ -23,10 +23,10 @@ I am a Ph.D. candidate at the Graduate School of Artificial Intelligence, KAIST,
 
 # Publications
 (* Equal contribution)
-- Joohyung Lee, Changhun Kim, **Hyunsu Kim**, Kwanhyung Lee, Juho Lee, <br>Under Review, Soft Equivariance Regularization for Invariant Self-Supervised Learning
+<!-- - Joohyung Lee, Changhun Kim, **Hyunsu Kim**, Kwanhyung Lee, Juho Lee, <br>Under Review, Soft Equivariance Regularization for Invariant Self-Supervised Learning
 - Hyungi Lee, Moonseok Choi, **Hyunsu Kim**, Kyunghyun Cho, Rajesh Ranganath, Juho Lee, <br>Under Review, Test Time Scaling for Neural Processes
 - **Hyunsu Kim**, Jonggeon Park, Joan Bruna, Hongseok Yang, Juho Lee, <br>Under Review, Axial Neural Networks for Dimension-Free Foundation Models
-- Jeongjun Lee, **Hyunsu Kim**, Byoungwoo Park, Jongmin Yoon, Jonggeon Park, Deokyun Kim, JihunCha, Juho Lee, <br>Under Review, Generative Active Learning with Discriminator-Guided Diffusion for Object Detection
+- Jeongjun Lee, **Hyunsu Kim**, Byoungwoo Park, Jongmin Yoon, Jonggeon Park, Deokyun Kim, JihunCha, Juho Lee, <br>Under Review, Generative Active Learning with Discriminator-Guided Diffusion for Object Detection -->
 - Jonggeon Park\*, Giung Nam\*, **Hyunsu Kim**, Jongmin Yoon, Juho Lee, <br>ICML 2025, [Ensemble Distribution Distillation via Flow Matching](https://openreview.net/forum?id=waeJHU2oeI&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions))
 - Yegon Kim, **Hyunsu Kim**, Gyeonghoon Ko, Juho Lee, <br>ICML 2025, [Active Learning with Selective Time-Step Acquisition for PDEs](https://openreview.net/forum?id=ef1UHxznNy&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions))
 - **Hyunsu Kim**, Giung Nam, Chulhee Yun, Hongseok Yang, Juho Lee, <br>ICLR 2025, [Parameter Expanded Stochastic Gradient Markov Chain Monte Carlo](https://arxiv.org/abs/2503.00699)
