@@ -36,6 +36,7 @@ I am an AI Researcher at Voronoi Inc. I received my PhD from the Graduate School
 <span id='experiences'></span>
 
 # Experiences
+- *2025.09-present*, AI Researcher, Voronoi Inc.
 - *2025.02-2025.06*, Visiting Scholar, New York University
   - Axial Neural Networks for Dimension-Free Foundation Models with [Joan Bruna](https://cims.nyu.edu/~bruna/group/)
 - *2025.02-2025.06*, Visiting Scholar, New York University
