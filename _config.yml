@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hyunsu Kim"
-description              : "Ph.D. Candidate in AI"
+description              : "AI Researcher at Voronoi Inc."
 repository               : "kim-hyunsu/kim-hyunsu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hyunsu Kim<br><p style='font-size:13px; '>김현수</p>"
   avatar           : "images/hskim2.jpg"
-  bio              : "KAIST AI"
-  location         : "Seoul, Korea"
+  bio              : "PhD at KAIST AI"
+  location         : "Incheon, Korea"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VNkzgPQAAAAJ"

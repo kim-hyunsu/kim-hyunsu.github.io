@@ -17,16 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about'></span>
 
-I am a Ph.D. candidate at the Graduate School of Artificial Intelligence, KAIST, being co-advised by [Juho Lee](https://juho-lee.github.io/) and [Hongseok Yang](https://sites.google.com/view/hongseokyang/home). I am interested in geometric deep learning and AI4Science.
+I am an AI Researcher at Voronoi Inc. I received my PhD from the Graduate School of Artificial Intelligence, KAIST, co-advised by [Juho Lee](https://juho-lee.github.io/) and [Hongseok Yang](https://sites.google.com/view/hongseokyang/home). I am interested in geometric deep learning and AI4Science.
 
 <span id='publications'></span>
 
 # Publications
 (* Equal contribution)
-- Joohyung Lee, Changhun Kim, **Hyunsu Kim**, Kwanhyung Lee, Juho Lee, <br>Under Review, Soft Equivariance Regularization for Invariant Self-Supervised Learning
-- Hyungi Lee, Moonseok Choi, **Hyunsu Kim**, Kyunghyun Cho, Rajesh Ranganath, Juho Lee, <br>Under Review, Test Time Scaling for Neural Processes
-- **Hyunsu Kim**, Jonggeon Park, Joan Bruna, Hongseok Yang, Juho Lee, <br>Under Review, Axial Neural Networks for Dimension-Free Foundation Models
-- Jeongjun Lee, **Hyunsu Kim**, Byoungwoo Park, Jongmin Yoon, Jonggeon Park, Deokyun Kim, JihunCha, Juho Lee, <br>Under Review, Generative Active Learning with Discriminator-Guided Diffusion for Object Detection
 - Jonggeon Park\*, Giung Nam\*, **Hyunsu Kim**, Jongmin Yoon, Juho Lee, <br>ICML 2025, [Ensemble Distribution Distillation via Flow Matching](https://openreview.net/forum?id=waeJHU2oeI&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions))
 - Yegon Kim, **Hyunsu Kim**, Gyeonghoon Ko, Juho Lee, <br>ICML 2025, [Active Learning with Selective Time-Step Acquisition for PDEs](https://openreview.net/forum?id=ef1UHxznNy&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions))
 - **Hyunsu Kim**, Giung Nam, Chulhee Yun, Hongseok Yang, Juho Lee, <br>ICLR 2025, [Parameter Expanded Stochastic Gradient Markov Chain Monte Carlo](https://arxiv.org/abs/2503.00699)
@@ -40,8 +36,12 @@ I am a Ph.D. candidate at the Graduate School of Artificial Intelligence, KAIST,
 <span id='experiences'></span>
 
 # Experiences
-- *2025.02-2025.06*, Visiting Scholar, New York University<br>(collaborating with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/), [Kyunghyun Cho](https://kyunghyuncho.me/), and [Joan Bruna](https://cims.nyu.edu/~bruna/group/))
+- *2025.02-2025.06*, Visiting Scholar, New York University
+  - Axial Neural Networks for Dimension-Free Foundation Models with [Joan Bruna](https://cims.nyu.edu/~bruna/group/)
+- *2025.02-2025.06*, Visiting Scholar, New York University
+  - Test Time Scaling for Neural Processes with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and [Kyunghyun Cho](https://kyunghyuncho.me/)
 - *2017.03-2018.08*, Freelance Software Engineer, BABLABS
+  - Flask-based Transaction Server Development
 
 <span id='honors-awards'></span>
 
