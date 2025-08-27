@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about'></span>
 
-I am an AI Researcher at Voronoi Inc. I received my PhD from the Graduate School of AI, KAIST, co-advised by [Juho Lee](https://juho-lee.github.io/) and [Hongseok Yang](https://sites.google.com/view/hongseokyang/home). I am interested in geometric deep learning and AI4Science.
+I am an AI Researcher for drug discovery at Voronoi Inc. I received my PhD from the Graduate School of AI, KAIST, co-advised by [Juho Lee](https://juho-lee.github.io/) and [Hongseok Yang](https://sites.google.com/view/hongseokyang/home). I am interested in geometric deep learning and AI4Science.
 
 <span id='publications'></span>
 
