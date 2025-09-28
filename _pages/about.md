@@ -23,7 +23,7 @@ I am an AI Researcher for drug discovery at Voronoi Inc. I received my PhD from 
 
 # Publications
 (* Equal contribution)
-- **Hyunsu Kim**, Jonggeon Park, Joan Bruna, Hongseok Yang, Juho Lee, <br>NeurIPS 2025, Axial Neural Networks for Dimension-Free Foundation Models <span style="backgound-color: #fff5b1">**(Spotlight Presentation)**</span>
+- **Hyunsu Kim**, Jonggeon Park, Joan Bruna, Hongseok Yang, Juho Lee, <br>NeurIPS 2025, Axial Neural Networks for Dimension-Free Foundation Models <br>**(Spotlight Presentation; Top 3.2%)**
 - Hyungi Lee, Moonseok Choi, **Hyunsu Kim**, Kyunghyun Cho, Rajesh Ranganath, Juho Lee, <br>NeurIPS 2025, Test Time Scaling for Neural Processes
 - Jonggeon Park\*, Giung Nam\*, **Hyunsu Kim**, Jongmin Yoon, Juho Lee, <br>ICML 2025, [Ensemble Distribution Distillation via Flow Matching](https://openreview.net/forum?id=waeJHU2oeI&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions))
 - Yegon Kim, **Hyunsu Kim**, Gyeonghoon Ko, Juho Lee, <br>ICML 2025, [Active Learning with Selective Time-Step Acquisition for PDEs](https://openreview.net/forum?id=ef1UHxznNy&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions))
