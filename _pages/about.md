@@ -23,8 +23,8 @@ I am an AI Researcher for drug discovery at Voronoi Inc. I received my PhD from 
 
 # Publications
 (* Equal contribution)
-- **Hyunsu Kim**, Jonggeon Park, Joan Bruna, Hongseok Yang, Juho Lee, <br>NeurIPS 2025, [Axial Neural Networks for Dimension-Free Foundation Models](https://arxiv.org/abs/2510.13665)<br>**(Spotlight Presentation; Top 3.2%)**
-- Hyungi Lee, Moonseok Choi, **Hyunsu Kim**, Kyunghyun Cho, Rajesh Ranganath, Juho Lee, <br>NeurIPS 2025, Test Time Scaling for Neural Processes
+- **Hyunsu Kim**, Jonggeon Park, Joan Bruna, Hongseok Yang, Juho Lee, <br>NeurIPS 2025, [Axial Neural Networks for Dimension-Free Foundation Models](https://arxiv.org/abs/2510.13665)<br><span style="color:blue">**(Spotlight Presentation; Top 3.2%)**</span>
+- Hyungi Lee, Moonseok Choi, **Hyunsu Kim**, Kyunghyun Cho, Rajesh Ranganath, Juho Lee, <br>NeurIPS 2025, [Test Time Scaling for Neural Processes](https://openreview.net/pdf/9b5bdc2adf3b5a467383817f112ec336704f42ca.pdf)
 - Jonggeon Park\*, Giung Nam\*, **Hyunsu Kim**, Jongmin Yoon, Juho Lee, <br>ICML 2025, [Ensemble Distribution Distillation via Flow Matching](https://openreview.net/forum?id=waeJHU2oeI&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions))
 - Yegon Kim, **Hyunsu Kim**, Gyeonghoon Ko, Juho Lee, <br>ICML 2025, [Active Learning with Selective Time-Step Acquisition for PDEs](https://openreview.net/forum?id=ef1UHxznNy&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions))
 - **Hyunsu Kim**, Giung Nam, Chulhee Yun, Hongseok Yang, Juho Lee, <br>ICLR 2025, [Parameter Expanded Stochastic Gradient Markov Chain Monte Carlo](https://arxiv.org/abs/2503.00699)
@@ -39,7 +39,7 @@ I am an AI Researcher for drug discovery at Voronoi Inc. I received my PhD from 
 
 # Experiences
 - *2025.09-present*, AI Researcher, Voronoi Inc.
-  - Lab Automation Team
+  - Lab Automation Team; retrosynthesis and data mining using LLMs
 - *2025.02-2025.06*, Visiting Scholar, New York University
   - Axial Neural Networks for Dimension-Free Foundation Models with [Joan Bruna](https://cims.nyu.edu/~bruna/group/)
 - *2025.02-2025.06*, Visiting Scholar, New York University
