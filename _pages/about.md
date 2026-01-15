@@ -39,7 +39,7 @@ I am an AI Researcher for drug discovery at Voronoi Inc. I received my PhD from 
 
 # Experiences
 - *2025.09-present*, AI Researcher, Voronoi Inc.
-  - Lab Automation Team; retrosynthesis and data mining using LLMs
+  - Lab Automation Team; retrosynthesis, chemistry agent system, and data mining.
 - *2025.02-2025.06*, Visiting Scholar, New York University
   - Axial Neural Networks for Dimension-Free Foundation Models with [Joan Bruna](https://cims.nyu.edu/~bruna/group/)
 - *2025.02-2025.06*, Visiting Scholar, New York University
