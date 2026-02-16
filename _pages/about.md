@@ -46,7 +46,7 @@ I am an AI Researcher for drug discovery at Voronoi Inc. I received my PhD from 
 - *2025.02-2025.06*, Visiting Scholar, New York University
   - Test Time Scaling for Neural Processes with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and [Kyunghyun Cho](https://kyunghyuncho.me/)
 - *2017.03-2018.08*, Freelance Software Engineer, BABLABS
-  - Developments of Flask-based Transaction Server and Vue.js-based WebApp
+  - Developments of Flask-based Transaction Server (python) and Vue.js-based WebApp (node.js)
 
 <span id='honors-awards'></span>
 
