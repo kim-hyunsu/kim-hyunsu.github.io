@@ -23,6 +23,7 @@ I am an AI Researcher for drug discovery at Voronoi Inc. I received my PhD from 
 
 # Publications
 (* Equal contribution)
+- Joohyung Lee, Changhun Kim, **Hyunsu Kim**, Kwanhyung Lee, Juho Lee, <br>ICLR 2026, [Soft Equivariance Regularization for Invariant Self-Supervised Learning](https://openreview.net/forum?id=TuQW7VPfXF)
 - **Hyunsu Kim**, Jonggeon Park, Joan Bruna, Hongseok Yang, Juho Lee, <br>NeurIPS 2025, [Axial Neural Networks for Dimension-Free Foundation Models](https://arxiv.org/abs/2510.13665)<br><span style="color:blue">**(Spotlight Presentation; Top 3.2%)**</span>
 - Hyungi Lee, Moonseok Choi, **Hyunsu Kim**, Kyunghyun Cho, Rajesh Ranganath, Juho Lee, <br>NeurIPS 2025, [Test Time Scaling for Neural Processes](https://openreview.net/pdf/9b5bdc2adf3b5a467383817f112ec336704f42ca.pdf)
 - Jonggeon Park\*, Giung Nam\*, **Hyunsu Kim**, Jongmin Yoon, Juho Lee, <br>ICML 2025, [Ensemble Distribution Distillation via Flow Matching](https://openreview.net/forum?id=waeJHU2oeI&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions))
@@ -39,7 +40,7 @@ I am an AI Researcher for drug discovery at Voronoi Inc. I received my PhD from 
 
 # Experiences
 - *2025.09-present*, AI Researcher, Voronoi Inc.
-  - Lab Automation Team; retrosynthesis, chemistry agent system, and data mining.
+  - Lab Automation Team; agentic AI for drug discovery and retrosynthesis model.
 - *2025.02-2025.06*, Visiting Scholar, New York University
   - Axial Neural Networks for Dimension-Free Foundation Models with [Joan Bruna](https://cims.nyu.edu/~bruna/group/)
 - *2025.02-2025.06*, Visiting Scholar, New York University
@@ -54,7 +55,8 @@ I am an AI Researcher for drug discovery at Voronoi Inc. I received my PhD from 
 - *2014-2018*, The Presidential Science Scholarship - Government of South Korea
 - *2014-2019*, Full Undergraduate Scholarship - KAIST
 - *2013*, Honorable Mention - International Science and Engineering Fair (ISEF)
-- *2013*, 1st Prize - Korea Science and Engineering Fair (KSEF) 
+- *2013*, 1st Prize - Korea Science and Engineering Fair (KSEF)
+- *2012*, Gold Medal - Physics Competition in Chungcheongnam-do, South Korea
 - *2009*, Bronze Medal - Middle School Korea Biology Olympiad (KBO)
 
 <span id='educations'></span>
