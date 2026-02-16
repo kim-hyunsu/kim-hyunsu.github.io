@@ -19,6 +19,26 @@ redirect_from:
 
 I am an AI Researcher for drug discovery at Voronoi Inc. I received my PhD from the Graduate School of AI, KAIST, co-advised by [Juho Lee](https://juho-lee.github.io/) and [Hongseok Yang](https://sites.google.com/view/hongseokyang/home). I am interested in geometric deep learning and AI4Science.
 
+<span id='skills'></span>
+
+# Skills
+- **Research**: Equivariant Models, Generative Modeling, Bayesian Deep Learning, Distillation, Diffusion Models, Vision Transformer
+- **Development**: Agentic AI, Web (full stack), Android
+- **Programming Languages**: Python, Javascript, Java, Go, C
+- **Machine Learning**: PyTorch, JAX, Tensorflow
+
+<span id='experiences'></span>
+
+# Experiences
+- *2025.09-present*, AI Researcher, Voronoi Inc.
+  - Lab Automation Team; agentic AI for drug discovery and retrosynthesis model.
+- *2025.02-2025.06*, Visiting Scholar, New York University
+  - Axial Neural Networks for Dimension-Free Foundation Models with [Joan Bruna](https://cims.nyu.edu/~bruna/group/)
+- *2025.02-2025.06*, Visiting Scholar, New York University
+  - Test Time Scaling for Neural Processes with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and [Kyunghyun Cho](https://kyunghyuncho.me/)
+- *2017.03-2018.08*, Freelance Software Engineer, BABLABS
+  - Developments of Flask-based Transaction Server and Vue.js-based WebApp
+
 <span id='publications'></span>
 
 # Publications
@@ -35,18 +55,6 @@ I am an AI Researcher for drug discovery at Voronoi Inc. I received my PhD from 
 - Seunghyun Kim\*, **Hyunsu Kim\***, Eungu Yun\*, Hwangrae Lee, Jaehun Lee, Juho Lee, <br>ICML 2023, [Probabilistic imputation for time-series classification with missing data](https://arxiv.org/abs/2308.06738)
 - **Hyunsu Kim**, Hyungi Lee, Hongseok Yang, Juho Lee, <br>ICML 2023, [Regularizing towards soft equivariance under mixed symmetries](https://arxiv.org/abs/2306.00356),
 - **Hyunsu Kim**, Juho Lee, Hongseok Yang, <br>AABI 2020, [Adaptive strategy for resetting a non-stationary markov chain during learning via joint stochastic approximation](https://openreview.net/pdf?id=fuHh4CC3-5Z)
-
-<span id='experiences'></span>
-
-# Experiences
-- *2025.09-present*, AI Researcher, Voronoi Inc.
-  - Lab Automation Team; agentic AI for drug discovery and retrosynthesis model.
-- *2025.02-2025.06*, Visiting Scholar, New York University
-  - Axial Neural Networks for Dimension-Free Foundation Models with [Joan Bruna](https://cims.nyu.edu/~bruna/group/)
-- *2025.02-2025.06*, Visiting Scholar, New York University
-  - Test Time Scaling for Neural Processes with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and [Kyunghyun Cho](https://kyunghyuncho.me/)
-- *2017.03-2018.08*, Freelance Software Engineer, BABLABS
-  - Developments of Flask-based Transaction Server (python) and Vue.js-based WebApp (node.js)
 
 <span id='honors-awards'></span>
 
