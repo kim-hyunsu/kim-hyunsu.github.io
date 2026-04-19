@@ -35,8 +35,8 @@ I am an AI Researcher for drug discovery at Voronoi Inc. I received my PhD from 
   - Agentic AI for reaction data mining
   - Agentic AI for synthesis pathway design
 - *2025.02-2025.06*, Visiting Scholar, New York University
-  - Axial Neural Networks for Dimension-Free Foundation Models with [Joan Bruna](https://cims.nyu.edu/~bruna/group/)
-  - Test Time Scaling for Neural Processes with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and [Kyunghyun Cho](https://kyunghyuncho.me/)
+  - Axial Neural Networks for Dimension-Free Foundation Models with [Joan Bruna](https://cims.nyu.edu/~bruna/group/).<br>(New Architecture of Foundation Model for AI PDE Solver)
+  - Test Time Scaling for Neural Processes with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and [Kyunghyun Cho](https://kyunghyuncho.me/).
 - *2017.03-2018.08*, Freelance Software Engineer, BABLABS
   - Developments of Transaction Server (Python, Flask, MySQL) and Web App (Javascript, Vue.js)
 
