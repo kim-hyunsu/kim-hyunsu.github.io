@@ -22,10 +22,10 @@ I am an AI Researcher for drug discovery at Voronoi Inc. I received my PhD from 
 <span id='skills'></span>
 
 # Skills
-- **Research**: Equivariant Models, Generative Modeling, Bayesian Deep Learning, Distillation, Diffusion Models, Vision Transformer
-- **Development**: Agentic AI, Web (full stack), Android
-- **Programming Languages**: Python, Javascript, Java, Go, C
-- **Machine Learning**: PyTorch, JAX, Tensorflow
+- **Research**: Equivariant Models, Generative Modeling, Bayesian Deep Learning, Distillation, Diffusion Models, Vision Transformer, Active Learing, AI PDE Solver, Time-Series Prediction.
+- **Development**: Agentic AI, Web (full stack), Android.
+- **Programming Languages**: Python, Javascript, Java, Go, C.
+- **Machine Learning**: PyTorch, JAX, Tensorflow.
 
 <span id='experiences'></span>
 
