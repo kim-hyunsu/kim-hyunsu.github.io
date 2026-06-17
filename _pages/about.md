@@ -33,7 +33,7 @@ I am an AI Researcher for drug discovery at Voronoi Inc. I received my PhD from 
 - *2025.09-present*, AI Researcher, Lab Automation Team, Voronoi Inc.
   - Retrosynthesis model for chemical synthesis recommendation
   - Agentic AI for reaction data mining
-  - Agentic AI for synthesis pathway design
+  - Protein conformational ensemble generation
 - *2025.02-2025.06*, Visiting Scholar, New York University
   - Axial Neural Networks for Dimension-Free Foundation Models with [Joan Bruna](https://cims.nyu.edu/~bruna/group/).<br>(New Architecture of Foundation Model for AI PDE Solver)
   - Test Time Scaling for Neural Processes with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and [Kyunghyun Cho](https://kyunghyuncho.me/).
