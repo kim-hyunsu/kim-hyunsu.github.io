@@ -19,13 +19,11 @@ redirect_from:
 
 I am an AI Researcher for drug discovery at Voronoi Inc. I received my PhD from the Graduate School of AI, KAIST, co-advised by [Juho Lee](https://juho-lee.github.io/) and [Hongseok Yang](https://sites.google.com/view/hongseokyang/home). I am interested in geometric deep learning and AI4Science.
 
-<span id='skills'></span>
+<span id='Expertise'></span>
 
-# Skills
-- **Research**: Equivariant Models, Generative Modeling, Bayesian Deep Learning, Distillation, Diffusion Models, Vision Transformer, Active Learing, AI PDE Solver, Time-Series Prediction.
-- **Development**: Agentic AI, Web (full stack), Android.
-- **Programming Languages**: Python, Javascript, Java, Go, C.
-- **Machine Learning**: PyTorch, JAX, Tensorflow.
+# Expertise
+
+Equivariant Models, Generative Modeling, Bayesian Deep Learning, Variational Inference, Markov Chain Monte Carlo, AI PDE Solver, Time-Series Prediction, Active Learning, Distillation, Diffusion Models, Vision Transformer.
 
 <span id='experiences'></span>
 
@@ -42,7 +40,12 @@ I am an AI Researcher for drug discovery at Voronoi Inc. I received my PhD from 
 
 <span id='publications'></span>
 
-# Publications
+# Selected Publications
+- **Hyunsu Kim**, Jonggeon Park, Joan Bruna, Hongseok Yang, Juho Lee, <br>NeurIPS 2025, [Axial Neural Networks for Dimension-Free Foundation Models](https://arxiv.org/abs/2510.13665)<br><span style="color:blue">**(Spotlight Presentation; Top 3.2%)**</span>
+- **Hyunsu Kim**, Giung Nam, Chulhee Yun, Hongseok Yang, Juho Lee, <br>ICLR 2025, [Parameter Expanded Stochastic Gradient Markov Chain Monte Carlo](https://arxiv.org/abs/2503.00699)
+- **Hyunsu Kim**, Hyungi Lee, Hongseok Yang, Juho Lee, <br>ICML 2023, [Regularizing towards soft equivariance under mixed symmetries](https://arxiv.org/abs/2306.00356),
+
+# All Publications
 (* Equal contribution)
 - Joohyung Lee, Changhun Kim, **Hyunsu Kim**, Kwanhyung Lee, Juho Lee, <br>ICLR 2026, [Soft Equivariance Regularization for Invariant Self-Supervised Learning](https://openreview.net/forum?id=TuQW7VPfXF)
 - **Hyunsu Kim**, Jonggeon Park, Joan Bruna, Hongseok Yang, Juho Lee, <br>NeurIPS 2025, [Axial Neural Networks for Dimension-Free Foundation Models](https://arxiv.org/abs/2510.13665)<br><span style="color:blue">**(Spotlight Presentation; Top 3.2%)**</span>
@@ -74,3 +77,10 @@ I am an AI Researcher for drug discovery at Voronoi Inc. I received my PhD from 
 - *2021.09-2025.08*, Ph.D. in Artificial Intelligence, KAIST
 - *2019.03-2021.08*, M.S. in Computer Science, KAIST
 - *2014.03-2019.02*, B.S. in Physics and Computer Science (Double Major), KAIST
+
+<span id='skills'></span>
+
+# Skills
+- **Development**: Agentic AI, Web (full stack), Android.
+- **Programming Languages**: Python, Javascript, Java, Go, C.
+- **Machine Learning**: PyTorch, JAX, Tensorflow.
