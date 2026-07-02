@@ -23,7 +23,11 @@ I am an AI Researcher for drug discovery at Voronoi Inc. I received my PhD from 
 
 # Expertise
 
-Equivariant Models, Generative Modeling, Bayesian Deep Learning, Variational Inference, Markov Chain Monte Carlo, AI PDE Solver, Time-Series Prediction, Active Learning, Distillation, Diffusion Models, Vision Transformer.
+**Architecture**: Equivariant Models, Generative Modeling, Vision Transformer, Distillation.
+
+**Bayesian**: Active Learning, Markov Chain Monte Carlo, Bayesian Deep Learning, Variational Inference.
+
+**Application**: Agentic AI Orchestration, AI PDE Solver, Time-Series Prediction, Protein Generation, SMILES Generation.
 
 <span id='experiences'></span>
 
