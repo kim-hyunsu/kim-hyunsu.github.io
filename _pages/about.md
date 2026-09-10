@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about'></span>
 
-I am an AI Researcher for drug discovery at Voronoi Inc. I received my PhD from the Graduate School of AI, KAIST, co-advised by [Juho Lee](https://juho-lee.github.io/) and [Hongseok Yang](https://sites.google.com/view/hongseokyang/home). I am interested in geometric deep learning and AI4Science.
+I am a postdoc fellow at KAIST. I received my PhD from the Graduate School of AI, KAIST, co-advised by [Juho Lee](https://juho-lee.github.io/) and [Hongseok Yang](https://sites.google.com/view/hongseokyang/home). I am interested in geometric deep learning and AI4Science.
 
 <span id='Expertise'></span>
 
@@ -32,7 +32,10 @@ I am an AI Researcher for drug discovery at Voronoi Inc. I received my PhD from 
 <span id='experiences'></span>
 
 # Experiences
-- *2025.09-present*, AI Researcher, Lab Automation Team, Voronoi Inc.
+- *2026.09-present*, InnoCORE Fellow, KAIST.
+  - Rare-event sampling with AI and molecular dynamics
+  - AI for Drug Discovery
+- *2025.09-2026.08*, AI Researcher, Lab Automation Team, Voronoi Inc.
   - Retrosynthesis model for chemical synthesis recommendation
   - Agentic AI for reaction data mining
   - Protein conformation generation with AI and molecular dynamics
