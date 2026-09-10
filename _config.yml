@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hyunsu Kim"
-description              : "AI Researcher,<br>Voronoi Inc. 보로노이(주)"
+description              : "InnoCORE Fellow, KAIST"
 repository               : "kim-hyunsu/kim-hyunsu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Hyunsu Kim<br><p style='font-size:13px; '>김현수</p>"
   avatar           : "images/hskim2.jpg"
   bio              : "PhD in AI"
-  location         : "Incheon, Korea"
+  location         : "Seoul, South Korea"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VNkzgPQAAAAJ"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 현수-김-a846b0124 # e.g., "linkedin username"
+  linkedin         : hyunsu-kim-a846b0124 # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
