@@ -34,7 +34,7 @@ I am a postdoc fellow working with [Sungsoo Ahn](https://sungsoo-ahn.github.io/)
 # Experiences
 - *2026.09-present*, InnoCORE Fellow, KAIST.
   - Rare-event sampling with AI and molecular dynamics with [Sungsoo Ahn](https://sungsoo-ahn.github.io/) and [Wooyoun Kim](https://wooyoun.kaist.ac.kr/)
-- *2025.09-2026.08*, AI Researcher, Lab Automation Team, Voronoi Inc.
+- *2025.09-2026.08*, (Military Service) AI Researcher, Lab Automation Team, Voronoi Inc.
   - Retrosynthesis model for chemical synthesis recommendation
   - Agentic AI for reaction data mining
   - Protein conformation generation with AI and molecular dynamics
